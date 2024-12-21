@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\source\\languageone\\private\\languageonecommands.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_projects\\project_echoe\\project_echoe\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\languageone\\definitions.languageone.h",
+            "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\source\\languageone\\public\\languageonecommands.h",
+            "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\source\\languageone\\public\\languageonestyle.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

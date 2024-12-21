@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\source\\languageone\\private\\languageone.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_projects\\project_echoe\\project_echoe\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\languageone\\definitions.languageone.h",
+            "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\source\\languageone\\public\\languageone.h",
+            "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\source\\languageone\\public\\languageonestyle.h",
+            "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\source\\languageone\\public\\languageonecommands.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\leveleditor.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\ileveleditor.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\engine\\public\\elements\\framework\\engineelementslibrary.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\engineelementslibrary.generated.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\viewporttypedefinition.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\leveleditoroutlinersettings.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\developer\\toolwidgets\\public\\filters\\genericfilter.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\developer\\toolwidgets\\public\\filters\\filterbase.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\core\\public\\internationalization\\culture.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\source\\languageone\\private\\languageonestyle.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_projects\\project_echoe\\project_echoe\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\languageone\\definitions.languageone.h",
+            "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\source\\languageone\\public\\languageonestyle.h",
+            "d:\\ue_projects\\project_echoe\\project_echoe\\plugins\\languageone\\source\\languageone\\public\\languageone.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\engine\\public\\slate\\slategameresources.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\projects\\public\\versescope.h",
+            "d:\\epiceditors\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestylemacros.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
